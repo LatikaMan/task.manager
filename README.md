@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # task-manager
 
 Monorepo for a simple task manager application.
@@ -72,3 +73,6 @@ Next steps
 
 ---
 Generated on 2026-01-29.
+=======
+# task.manager
+>>>>>>> 4826bf4fee3a7bce12447bae67fc1a9720e631a5
